@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=
+kernel.string="XFireKernels, by @prisma_droid"
 do.devicecheck=0
 do.modules=0
 do.systemless=0
